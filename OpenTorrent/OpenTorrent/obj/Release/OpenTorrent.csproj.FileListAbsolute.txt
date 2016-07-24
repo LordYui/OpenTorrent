@@ -1,0 +1,12 @@
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\bin\Release\OpenTorrent.exe.config
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\bin\Release\OpenTorrent.exe
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\bin\Release\OpenTorrent.pdb
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\bin\Release\BencodeNET.dll
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\bin\Release\Lidgren.Network.dll
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\bin\Release\Logman.dll
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\bin\Release\Open.Nat.dll
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\bin\Release\Lidgren.Network.pdb
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\bin\Release\Logman.pdb
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\bin\Release\Open.Nat.xml
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\obj\Release\OpenTorrent.exe
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\OpenTorrent\OpenTorrent\obj\Release\OpenTorrent.pdb

@@ -1,0 +1,13 @@
+c:\users\yui\documents\visual studio 2015\Projects\Lidgren Event\Lidgren Event\bin\Debug\Lidgren Event.exe.config
+c:\users\yui\documents\visual studio 2015\Projects\Lidgren Event\Lidgren Event\bin\Debug\Lidgren Event.exe
+c:\users\yui\documents\visual studio 2015\Projects\Lidgren Event\Lidgren Event\bin\Debug\Lidgren Event.pdb
+c:\users\yui\documents\visual studio 2015\Projects\Lidgren Event\Lidgren Event\bin\Debug\Lidgren.Network.dll
+c:\users\yui\documents\visual studio 2015\Projects\Lidgren Event\Lidgren Event\bin\Debug\Lidgren.Network.pdb
+c:\users\yui\documents\visual studio 2015\Projects\Lidgren Event\Lidgren Event\obj\Debug\Lidgren Event.csprojResolveAssemblyReference.cache
+c:\users\yui\documents\visual studio 2015\Projects\Lidgren Event\Lidgren Event\obj\Debug\Lidgren Event.exe
+c:\users\yui\documents\visual studio 2015\Projects\Lidgren Event\Lidgren Event\obj\Debug\Lidgren Event.pdb
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\Lidgren Event\Lidgren Event\bin\Debug\Logman.dll
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\Lidgren Event\Lidgren Event\bin\Debug\Logman.pdb
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\Lidgren Event\Lidgren Event\bin\Debug\BencodeNET.dll
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\Lidgren Event\Lidgren Event\bin\Debug\BencodeNET.xml
+C:\Users\Yui\Documents\Visual Studio 2015\Projects\Lidgren Event\Lidgren Event\bin\Debug\OpenTorrent.exe.config
